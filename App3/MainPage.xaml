@@ -4,7 +4,7 @@
              x:Class="App3.MainPage">
 
     <StackLayout>
-        <Button Text="Click Me" Clicked="Button_OnClicked"></Button>
+        <Button Text="Click Me" Clicked="Button_OnClicked" Margin="30"></Button>
 	    <!--<Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
